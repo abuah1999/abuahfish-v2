@@ -1,7 +1,7 @@
 # abuahfish-v2
 
-A Go implementation of the 111-line Python chess engine Sunfish ([https://github.com/thomasahle/sunfish](https://github.com/thomasahle/sunfish))
-This project is also a continuation of the ongoing abuahfish project: [https://github.com/abuah1999/abuahfish](https://github.com/abuah1999/abuahfish). Play the latest version here: [https://lichess.org/@/abuah2022](https://lichess.org/@/abuah2022)
+Abuahfish version 2 is a Go re-implementation of the 111-line Python chess engine Sunfish ([https://github.com/thomasahle/sunfish](https://github.com/thomasahle/sunfish)).
+Note that this project is also a continuation of the ongoing abuahfish project: [https://github.com/abuah1999/abuahfish](https://github.com/abuah1999/abuahfish). Play the latest version here: [https://lichess.org/@/abuah2022](https://lichess.org/@/abuah2022)
 
 #### to install on your local machine
 
