@@ -5,18 +5,14 @@ This project is also a continuation of the ongoing abuahfish project: [https://g
 
 #### to install on your local machine
 
-1. Switch to your directory of choice and clone the repo
+1. Make sure that you have Go installed.
+
+2. Run this command in terminal:
 
 ```
-mkdir abuahfish2
-cd abuahfish2
-git clone <url>
+go install abuahfish_v2
 ```
 
-2. Generate the executable like this:
+3. Navigate to your ```$GOPATH/bin``` folder. You will find the executable there.
 
-```
-go build .
-```
-
-3. Load the executable file into a chess GUI (e.g ArenaGUI, SCID vs PC) and have fun!
+4. Load the executable file into a chess GUI (e.g ArenaGUI, SCID vs PC) and have fun!
